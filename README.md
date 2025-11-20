@@ -69,11 +69,11 @@
 
 ### Динамика новых пользователей и курьеров
 
-![New Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/raw/main/dashboards/images/new_users_couriers.png)
+![New Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/blob/main/dashboards/images/new_users_couriers.PNG)
 
 ### Общее количество пользователей и курьеров
 
-![Total Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/raw/main/dashboards/images/total_users_couriers.png)
+![Total Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/blob/main/dashboards/images/total_users_couriers.PNG)
 
 ## 🎯 Текущий прогресс
 
