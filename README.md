@@ -75,6 +75,14 @@
 
 ![Total Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/blob/main/dashboards/images/total_users_couriers.PNG)
 
+### Прирост новых пользователей и курьеров (барчарт)
+
+![Increase New Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/blob/main/dashboards/images/growth_new_users_couriers.png)
+
+### Прирост общего количества пользователей и курьеров (барчарт)
+
+![Increase Total Users & Couriers](https://github.com/MAKEMYDAY1/sql-practice/blob/main/dashboards/images/growth_total_users_couriers.png)
+
 ## 🎯 Текущий прогресс
 
 ### Basics: 10 решений ✅
@@ -108,4 +116,4 @@
 
 ---
 
-_Последнее обновление: 2024-11-20_
+_Последнее обновление: 2024-11-21_
